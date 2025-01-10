@@ -41,3 +41,7 @@ In pursuit of excellence, I leverage cloud technologies such as GCP and AWS, alo
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
 
 
+
+<div class="lets-connect">
+     <h2>Find me around the web 🌎:</h2>
+</div>
