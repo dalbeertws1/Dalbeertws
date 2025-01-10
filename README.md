@@ -11,19 +11,22 @@ Computer Vision & Image Processing
 Generative AI and LLMs
 SaaS & Enterprise Solutions
 Real Estate, Healthcare, FinTech, Logistics, eCommerce
+
 Let’s bring your vision to life! ⚡
 
 ---
 
-## 🚀 About Me
+## My Expertise
+Here’s what I can help you with:
+Computer Vision: Object Detection, Image Segmentation, OCR, Pose Estimation
+Generative AI: Text-to-Image Generation, Stable Diffusion, Chatbots
+Machine Learning: Predictive Modeling, Time Series Forecasting, Data Analysis
+Backend Engineering: Scalable APIs, Cloud Solutions, DevOps
+AI/ML Technologies:
+Libraries & Frameworks: TensorFlow, PyTorch, OpenCV
+NLP: Langchain, Transformers, Spacy
+MLOps: Docker, Airflow, MLflow
 
-I specialize in recognizing, designing, and implementing efficient data platforms that ensure smooth and secure data flow. My experience spans:
-
-- Developing and maintaining **data management** and **business analytics tools** tailored to organizational needs.
-- Integrating data systems with **data warehouses** for optimal information accessibility.
-- Bridging **data science**, **data analytics**, and **data engineering** to create impactful prediction systems.
-
-I leverage modern cloud technologies like **GCP** and **AWS**, along with **DevOps practices**, to deliver scalable and efficient data solutions.
 
 ---
 
