@@ -8,58 +8,75 @@
 I thrive on turning innovative ideas into scalable, secure, and high-performing solutions while delivering top-notch results.
 
 ## 💡 **Key Focus Areas**:
-- 🖼️ **Computer Vision & Image Processing**
-- 🤖 **Generative AI and LLMs**
-- 🌐 **SaaS & Enterprise Solutions**
-- 🏥📦💳🏢 **Real Estate, Healthcare, FinTech, Logistics, eCommerce**
-
-Let’s bring your vision to life! ⚡
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 48%;">
+    - 🖼️ **Computer Vision & Image Processing**
+    - 🤖 **Generative AI and LLMs**
+    - 🌐 **SaaS & Enterprise Solutions**
+    - 🏥📦💳🏢 **Real Estate, Healthcare, FinTech, Logistics, eCommerce**
+</div>
+<div style="width: 48%;">
+    Let’s bring your vision to life! ⚡
+</div>
+</div>
 
 ---
 
-# 🌟 **My Expertise**
+<h2>🌟 **My Expertise**</h2>
 
 Here’s what I can help you with:
 
-## 🖼️ **Computer Vision**:
-- 🔍 **Object Detection**
-- ✂️ **Image Segmentation**
-- 📝 **OCR**
-- 🧍‍♂️ **Pose Estimation**
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 48%;">
+    <h3>🖼️ **Computer Vision**:</h3>
+    - 🔍 **Object Detection**
+    - ✂️ **Image Segmentation**
+    - 📝 **OCR**
+    - 🧍‍♂️ **Pose Estimation**
 
-## 🤖 **Generative AI**:
-- 🖌️ **Text-to-Image Generation**
-- 🌫️ **Stable Diffusion**
-- 💬 **Chatbots**
+    <h3>🤖 **Generative AI**:</h3>
+    - 🖌️ **Text-to-Image Generation**
+    - 🌫️ **Stable Diffusion**
+    - 💬 **Chatbots**
 
-## 📊 **Machine Learning**:
-- 🔮 **Predictive Modeling**
-- 📅 **Time Series Forecasting**
-- 📈 **Data Analysis**
+</div>
+<div style="width: 48%;">
+    <h3>📊 **Machine Learning**:</h3>
+    - 🔮 **Predictive Modeling**
+    - 📅 **Time Series Forecasting**
+    - 📈 **Data Analysis**
 
-## 🔧 **Backend Engineering**:
-- 📡 **Scalable APIs**
-- ☁️ **Cloud Solutions**
-- ⚙️ **DevOps**
+    <h3>🔧 **Backend Engineering**:</h3>
+    - 📡 **Scalable APIs**
+    - ☁️ **Cloud Solutions**
+    - ⚙️ **DevOps**
+</div>
+</div>
 
 ---
 
-# 🧠 **AI/ML Technologies**
+<h2>🧠 **AI/ML Technologies**</h2>
 
-## 📚 **Libraries & Frameworks**:
-- 📐 **TensorFlow**
-- 🔥 **PyTorch**
-- 🖥️ **OpenCV**
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 48%;">
+    <h3>📚 **Libraries & Frameworks**:</h3>
+    - 📐 **TensorFlow**
+    - 🔥 **PyTorch**
+    - 🖥️ **OpenCV**
 
-## 📝 **NLP**:
-- 🔗 **Langchain**
-- 🤖 **Transformers**
-- 🌿 **Spacy**
+    <h3>📝 **NLP**:</h3>
+    - 🔗 **Langchain**
+    - 🤖 **Transformers**
+    - 🌿 **Spacy**
+</div>
+<div style="width: 48%;">
+    <h3>🛠️ **MLOps**:</h3>
+    - 🐋 **Docker**
+    - 🌬️ **Airflow**
+    - 🛠️ **MLflow**
+</div>
+</div>
 
-## 🛠️ **MLOps**:
-- 🐋 **Docker**
-- 🌬️ **Airflow**
-- 🛠️ **MLflow**
 
 
 ## 🛠️ Technical Skills
