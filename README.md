@@ -17,7 +17,7 @@ Here’s what I can help you with:
 - 🔍 **Object Detection**
 - ✂️ **Image Segmentation**
 - 📝 **OCR**
--🧍‍♂️ **Pose Estimation**
+- 🧍‍♂️ **Pose Estimation**
 
 ## 🤖 **Generative AI**:
 - 🖌️ **Text-to-Image Generation**
