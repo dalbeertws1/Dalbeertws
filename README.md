@@ -8,3 +8,7 @@ Throughout my career, I have successfully overseen data management and business 
 My professional journey has been marked by involvement in projects that converge data science, data analytics, and data engineering. I have designed and maintained prediction systems that unveil hidden insights and offer valuable solutions to drive the company's growth and stability.
 
 In pursuit of excellence, I leverage cloud technologies such as GCP and AWS, alongside DevOps best practices, for all my data projects. My proficiency in troubleshooting allows me to swiftly identify and implement solutions, ensuring timely project delivery.
+
+
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
