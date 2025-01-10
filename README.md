@@ -113,7 +113,11 @@ Here’s what I can help you with:
 
 I’m always open to exciting projects! Reach out for collaborations, consultations, or just to chat about tech. 🚀
 💬 Available For:
+
 AI/ML Projects
+
 Generative AI & Computer Vision
+
 SaaS Development
+
 Cloud Solutions
