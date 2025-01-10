@@ -46,7 +46,7 @@ In pursuit of excellence, I leverage cloud technologies such as GCP and AWS, alo
      <h2>Find me around the web 🌎:</h2>
      <div class="social-links" style="display:flex; align-item:center;">
            <div class="gif-img"><img align="left" height="150" src="https://github.com/fortune-uwha/fortune-uwha/raw/main/Gif/Fortune-octocat-rotating.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></div>
-          <div class="socail-content">
+          <div class="socail-content" style="margin-top:20px;">
                <a href="/" rel="nofollow">
                    <img src="https://user-images.githubusercontent.com/40443167/162639626-3d3ae8bd-e02e-4854-aeb0-b0ffa457184a.png" width="30px" style="max-width: 100%;">
               </a>
