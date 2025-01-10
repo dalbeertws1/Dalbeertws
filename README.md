@@ -8,13 +8,12 @@
 I thrive on turning innovative ideas into scalable, secure, and high-performing solutions while delivering top-notch results.
 
 ## 💡 **Key Focus Areas**:
+- 🖼️ **Computer Vision & Image Processing**
+- 🤖 **Generative AI and LLMs**
+- 🌐 **SaaS & Enterprise Solutions**
+- 🏥📦💳🏢 **Real Estate, Healthcare, FinTech, Logistics, eCommerce**
 
-| Column 1                                        | Column 2                                     |
-|-------------------------------------------------|------------------------------------------------|
-| 🖼️ **Computer Vision & Image Processing**     | Let’s bring your vision to life! ⚡            |
-| 🤖 **Generative AI and LLMs**                 |                                             |
-| 🌐 **SaaS & Enterprise Solutions**             |                                             |
-| 🏥📦💳🏢 **Real Estate, Healthcare, FinTech, Logistics, eCommerce** |                                             |
+Let’s bring your vision to life! ⚡
 
 ---
 
@@ -22,32 +21,45 @@ I thrive on turning innovative ideas into scalable, secure, and high-performing 
 
 Here’s what I can help you with:
 
-| Column 1                                        | Column 2                                     |
-|-------------------------------------------------|------------------------------------------------|
-| 🖼️ **Computer Vision**:                        | 📊 **Machine Learning**:                     |
-| 🔍 **Object Detection**                         | 🔮 **Predictive Modeling**                    |
-| ✂️ **Image Segmentation**                     | 📅 **Time Series Forecasting**                |
-| 📝 **OCR**                                     | 📈 **Data Analysis**                         |
-| 🧍‍♂️ **Pose Estimation**                     |                                             |
-| 🤖 **Generative AI**:                         | 🔧 **Backend Engineering**:                 |
-| 🖌️ **Text-to-Image Generation**                 | 📡 **Scalable APIs**                         |
-| 🌫️ **Stable Diffusion**                        | ☁️ **Cloud Solutions**                        |
-| 💬 **Chatbots**                                 | ⚙️ **DevOps**                                 |
+## 🖼️ **Computer Vision**:
+- 🔍 **Object Detection**
+- ✂️ **Image Segmentation**
+- 📝 **OCR**
+- 🧍‍♂️ **Pose Estimation**
+
+## 🤖 **Generative AI**:
+- 🖌️ **Text-to-Image Generation**
+- 🌫️ **Stable Diffusion**
+- 💬 **Chatbots**
+
+## 📊 **Machine Learning**:
+- 🔮 **Predictive Modeling**
+- 📅 **Time Series Forecasting**
+- 📈 **Data Analysis**
+
+## 🔧 **Backend Engineering**:
+- 📡 **Scalable APIs**
+- ☁️ **Cloud Solutions**
+- ⚙️ **DevOps**
 
 ---
 
 # 🧠 **AI/ML Technologies**
 
-| Column 1                                        | Column 2                                     |
-|-------------------------------------------------|------------------------------------------------|
-| 📚 **Libraries & Frameworks**                 | 🛠️ **MLOps**                                 |
-| 📐 **TensorFlow**                             | 🐋 **Docker**                                 |
-| 🔥 **PyTorch**                                 | 🌬️ **Airflow**                             |
-| 🖥️ **OpenCV**                                 | 🛠️ **MLflow**                                |
-| 📝 **NLP**                                     |                                                |
-| 🔗 **Langchain**                                |                                                |
-| 🤖 **Transformers**                             |                                                |
-| 🌿 **Spacy**                                    |                                                |
+## 📚 **Libraries & Frameworks**:
+- 📐 **TensorFlow**
+- 🔥 **PyTorch**
+- 🖥️ **OpenCV**
+
+## 📝 **NLP**:
+- 🔗 **Langchain**
+- 🤖 **Transformers**
+- 🌿 **Spacy**
+
+## 🛠️ **MLOps**:
+- 🐋 **Docker**
+- 🌬️ **Airflow**
+- 🛠️ **MLflow**                         |                                                |
 
 
 ## 🛠️ Technical Skills
