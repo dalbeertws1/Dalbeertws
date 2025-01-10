@@ -1,13 +1,10 @@
-# Dalbeertws
-Hello👋🏾. Thank you for visiting my profile 👩🏾‍💻
+# Hello👋🏾. Thank you for visiting my profile 👩🏾‍💻
 
-As a Data Platform Engineer, I specialize in recognizing, choosing, and creating effective data systems and pipelines. These systems enable smooth and secure data flow throughout all processes, empowering data-driven decision-making.
 
-Throughout my career, I have successfully overseen data management and business analytics tools tailored to meet the specific needs and challenges of the company. By integrating these tools with data warehouses, I have ensured efficient organization and accessibility of information.
+ About Me
+Hi there! 👋 I’m a Senior Backend Engineer specializing in AI/ML, Python, and Computer Vision. With over 8 years of experience and expertise across various industries, I’ve worked with 70+ companies worldwide, building 55+ AI-based startups and delivering cutting-edge SaaS and enterprise solutions.
+I thrive on turning innovative ideas into scalable, secure, and high-performing solutions while delivering top-notch results.
 
-My professional journey has been marked by involvement in projects that converge data science, data analytics, and data engineering. I have designed and maintained prediction systems that unveil hidden insights and offer valuable solutions to drive the company's growth and stability.
-
-In pursuit of excellence, I leverage cloud technologies such as GCP and AWS, alongside DevOps best practices, for all my data projects. My proficiency in troubleshooting allows me to swiftly identify and implement solutions, ensuring timely project delivery.
 
 
 ## Technical Skills
