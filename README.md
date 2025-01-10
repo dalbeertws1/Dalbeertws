@@ -96,7 +96,7 @@ Here’s what I can help you with:
 
 ---
 
-## 🌎 Connect with Me
+## 📫 Let’s Connect
 
 <div align="center">
     <img align="left" height="150" src="https://github.com/fortune-uwha/fortune-uwha/raw/main/Gif/Fortune-octocat-rotating.gif?raw=true" alt="Rotating Octocat">
@@ -109,3 +109,11 @@ Here’s what I can help you with:
         </a>
     </div>
 </div>
+
+
+I’m always open to exciting projects! Reach out for collaborations, consultations, or just to chat about tech. 🚀
+💬 Available For:
+AI/ML Projects
+Generative AI & Computer Vision
+SaaS Development
+Cloud Solutions
