@@ -1,7 +1,16 @@
-# 🌟 Dalbeertws
+# Hello 👋🏾! Welcome to my GitHub profile 👩🏾‍💻
 
-Hello 👋🏾! Welcome to my GitHub profile 👩🏾‍💻
-I'm a **Data Platform Engineer** passionate about building robust data systems and pipelines to empower data-driven decision-making.
+
+ About Me
+ 
+Hi there! 👋 I’m a Senior Backend Engineer specializing in AI/ML, Python, and Computer Vision. With over 8 years of experience and expertise across various industries, I’ve worked with 70+ companies worldwide, building 55+ AI-based startups and delivering cutting-edge SaaS and enterprise solutions.
+I thrive on turning innovative ideas into scalable, secure, and high-performing solutions while delivering top-notch results.
+💡 Key Focus Areas:
+Computer Vision & Image Processing
+Generative AI and LLMs
+SaaS & Enterprise Solutions
+Real Estate, Healthcare, FinTech, Logistics, eCommerce
+Let’s bring your vision to life! ⚡
 
 ---
 
