@@ -1,18 +1,17 @@
 # Hello 👋🏾! Welcome to my GitHub profile 👩🏾‍💻
 
 
- I’m a **Senior Backend Engineer** specializing in **AI/ML, Python, and Computer Vision**. With over 8 years of experience and expertise across various industries, I’ve worked with 70+ companies worldwide, building 55+ AI-based startups and delivering cutting-edge SaaS and enterprise solutions.
+<h1 align="center">About Me</h1>
+
+👋 **Hi there!** I’m a **Senior Backend Engineer** specializing in **AI/ML, Python, and Computer Vision**. With over 8 years of experience and expertise across various industries, I’ve worked with 70+ companies worldwide, building 55+ AI-based startups and delivering cutting-edge SaaS and enterprise solutions.
 
 I thrive on turning innovative ideas into scalable, secure, and high-performing solutions while delivering top-notch results.
 
 ## 💡 **Key Focus Areas**:
-
-🖼️ **Computer Vision & Image Processing**
-🤖 **Generative AI and LLMs**
-
-🌐 **SaaS & Enterprise Solutions**
-
-🏢 **Real Estate, Healthcare, FinTech, Logistics, eCommerce**
+- 🖼️ **Computer Vision & Image Processing**
+- 🤖 **Generative AI and LLMs**
+- 🌐 **SaaS & Enterprise Solutions**
+- 🏥📦💳🏢 **Real Estate, Healthcare, FinTech, Logistics, eCommerce**
 
 Let’s bring your vision to life! ⚡
 
@@ -23,22 +22,15 @@ Let’s bring your vision to life! ⚡
 Here’s what I can help you with:
 
 ## 🖼️ **Computer Vision**:
-
-🔍 **Object Detection**
-
-✂️ **Image Segmentation**
-
-📝 **OCR**
-
-🧍‍♂️ **Pose Estimation**
+- 🔍 **Object Detection**
+- ✂️ **Image Segmentation**
+- 📝 **OCR**
+- 🧍‍♂️ **Pose Estimation**
 
 ## 🤖 **Generative AI**:
-
-🖌️ **Text-to-Image Generation**
-
-🌫️ **Stable Diffusion**
-
-💬 **Chatbots**
+- 🖌️ **Text-to-Image Generation**
+- 🌫️ **Stable Diffusion**
+- 💬 **Chatbots**
 
 ## 📊 **Machine Learning**:
 - 🔮 **Predictive Modeling**
@@ -67,7 +59,7 @@ Here’s what I can help you with:
 ## 🛠️ **MLOps**:
 - 🐋 **Docker**
 - 🌬️ **Airflow**
-- 🛠️ **MLflow**    
+- 🛠️ **MLflow**
 
 
 ## 🛠️ Technical Skills
