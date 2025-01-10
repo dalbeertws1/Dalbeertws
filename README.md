@@ -94,7 +94,7 @@ Here’s what I can help you with:
         <a href="https://www.linkedin.com/in/dalbeer-singh-sr-lead-engineer-ba95301b4/" target="_blank">
             <img src="https://user-images.githubusercontent.com/40443167/162639626-3d3ae8bd-e02e-4854-aeb0-b0ffa457184a.png" alt="Website" width="30px">
         </a>
-        <a href="mailto:your-email@example.com" target="_blank">
+        <a href="mailto:dalbeer.tws@tekkiwebsolutions.com" target="_blank">
             <img src="https://user-images.githubusercontent.com/40443167/162639747-6f6067e8-0fc0-480d-b820-58594dd93390.png" alt="Email" width="30px">
         </a>
     </div>
