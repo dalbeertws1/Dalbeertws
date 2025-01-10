@@ -8,8 +8,11 @@ I thrive on turning innovative ideas into scalable, secure, and high-performing 
 
 💡 Key Focus Areas:
 🖼️ Computer Vision & Image Processing
+
 🤖 Generative AI and LLMs
+
 🌐 SaaS & Enterprise Solutions
+
 🏡 Real Estate, Healthcare, FinTech, Logistics, eCommerce
 
 
