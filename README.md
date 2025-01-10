@@ -7,10 +7,11 @@ Hi there! 👋 I’m a Senior Backend Engineer specializing in AI/ML, Python, an
 I thrive on turning innovative ideas into scalable, secure, and high-performing solutions while delivering top-notch results.
 
 💡 Key Focus Areas:
-Computer Vision & Image Processing
-Generative AI and LLMs
-SaaS & Enterprise Solutions
-Real Estate, Healthcare, FinTech, Logistics, eCommerce
+🖼️ Computer Vision & Image Processing
+🤖 Generative AI and LLMs
+🌐 SaaS & Enterprise Solutions
+🏡 Real Estate, Healthcare, FinTech, Logistics, eCommerce
+
 
 Let’s bring your vision to life! ⚡
 
