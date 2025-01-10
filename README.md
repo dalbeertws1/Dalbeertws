@@ -10,5 +10,12 @@ My professional journey has been marked by involvement in projects that converge
 In pursuit of excellence, I leverage cloud technologies such as GCP and AWS, alongside DevOps best practices, for all my data projects. My proficiency in troubleshooting allows me to swiftly identify and implement solutions, ensuring timely project delivery.
 
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+## Technical Skills
+
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
 
