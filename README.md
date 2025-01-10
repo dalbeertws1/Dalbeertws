@@ -8,75 +8,46 @@
 I thrive on turning innovative ideas into scalable, secure, and high-performing solutions while delivering top-notch results.
 
 ## 💡 **Key Focus Areas**:
-<div style="display: flex; justify-content: space-between;">
-<div style="width: 48%;">
-    - 🖼️ **Computer Vision & Image Processing**
-    - 🤖 **Generative AI and LLMs**
-    - 🌐 **SaaS & Enterprise Solutions**
-    - 🏥📦💳🏢 **Real Estate, Healthcare, FinTech, Logistics, eCommerce**
-</div>
-<div style="width: 48%;">
-    Let’s bring your vision to life! ⚡
-</div>
-</div>
+
+| Column 1                                        | Column 2                                     |
+|-------------------------------------------------|------------------------------------------------|
+| 🖼️ **Computer Vision & Image Processing**     | Let’s bring your vision to life! ⚡            |
+| 🤖 **Generative AI and LLMs**                 |                                             |
+| 🌐 **SaaS & Enterprise Solutions**             |                                             |
+| 🏥📦💳🏢 **Real Estate, Healthcare, FinTech, Logistics, eCommerce** |                                             |
 
 ---
 
-<h2>🌟 **My Expertise**</h2>
+# 🌟 **My Expertise**
 
 Here’s what I can help you with:
 
-<div style="display: flex; justify-content: space-between;">
-<div style="width: 48%;">
-    <h3>🖼️ **Computer Vision**:</h3>
-    - 🔍 **Object Detection**
-    - ✂️ **Image Segmentation**
-    - 📝 **OCR**
-    - 🧍‍♂️ **Pose Estimation**
-
-    <h3>🤖 **Generative AI**:</h3>
-    - 🖌️ **Text-to-Image Generation**
-    - 🌫️ **Stable Diffusion**
-    - 💬 **Chatbots**
-
-</div>
-<div style="width: 48%;">
-    <h3>📊 **Machine Learning**:</h3>
-    - 🔮 **Predictive Modeling**
-    - 📅 **Time Series Forecasting**
-    - 📈 **Data Analysis**
-
-    <h3>🔧 **Backend Engineering**:</h3>
-    - 📡 **Scalable APIs**
-    - ☁️ **Cloud Solutions**
-    - ⚙️ **DevOps**
-</div>
-</div>
+| Column 1                                        | Column 2                                     |
+|-------------------------------------------------|------------------------------------------------|
+| 🖼️ **Computer Vision**:                        | 📊 **Machine Learning**:                     |
+| 🔍 **Object Detection**                         | 🔮 **Predictive Modeling**                    |
+| ✂️ **Image Segmentation**                     | 📅 **Time Series Forecasting**                |
+| 📝 **OCR**                                     | 📈 **Data Analysis**                         |
+| 🧍‍♂️ **Pose Estimation**                     |                                             |
+| 🤖 **Generative AI**:                         | 🔧 **Backend Engineering**:                 |
+| 🖌️ **Text-to-Image Generation**                 | 📡 **Scalable APIs**                         |
+| 🌫️ **Stable Diffusion**                        | ☁️ **Cloud Solutions**                        |
+| 💬 **Chatbots**                                 | ⚙️ **DevOps**                                 |
 
 ---
 
-<h2>🧠 **AI/ML Technologies**</h2>
+# 🧠 **AI/ML Technologies**
 
-<div style="display: flex; justify-content: space-between;">
-<div style="width: 48%;">
-    <h3>📚 **Libraries & Frameworks**:</h3>
-    - 📐 **TensorFlow**
-    - 🔥 **PyTorch**
-    - 🖥️ **OpenCV**
-
-    <h3>📝 **NLP**:</h3>
-    - 🔗 **Langchain**
-    - 🤖 **Transformers**
-    - 🌿 **Spacy**
-</div>
-<div style="width: 48%;">
-    <h3>🛠️ **MLOps**:</h3>
-    - 🐋 **Docker**
-    - 🌬️ **Airflow**
-    - 🛠️ **MLflow**
-</div>
-</div>
-
+| Column 1                                        | Column 2                                     |
+|-------------------------------------------------|------------------------------------------------|
+| 📚 **Libraries & Frameworks**                 | 🛠️ **MLOps**                                 |
+| 📐 **TensorFlow**                             | 🐋 **Docker**                                 |
+| 🔥 **PyTorch**                                 | 🌬️ **Airflow**                             |
+| 🖥️ **OpenCV**                                 | 🛠️ **MLflow**                                |
+| 📝 **NLP**                                     |                                                |
+| 🔗 **Langchain**                                |                                                |
+| 🤖 **Transformers**                             |                                                |
+| 🌿 **Spacy**                                    |                                                |
 
 
 ## 🛠️ Technical Skills
