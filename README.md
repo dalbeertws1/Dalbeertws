@@ -1,14 +1,23 @@
-# Hello👋🏾. Thank you for visiting my profile 👩🏾‍💻
+# 🌟 Dalbeertws
 
+Hello 👋🏾! Welcome to my GitHub profile 👩🏾‍💻
+I'm a **Data Platform Engineer** passionate about building robust data systems and pipelines to empower data-driven decision-making.
 
- About Me
- 
-Hi there! 👋 I’m a Senior Backend Engineer specializing in AI/ML, Python, and Computer Vision. With over 8 years of experience and expertise across various industries, I’ve worked with 70+ companies worldwide, building 55+ AI-based startups and delivering cutting-edge SaaS and enterprise solutions.
-I thrive on turning innovative ideas into scalable, secure, and high-performing solutions while delivering top-notch results.
+---
 
+## 🚀 About Me
 
+I specialize in recognizing, designing, and implementing efficient data platforms that ensure smooth and secure data flow. My experience spans:
 
-## Technical Skills
+- Developing and maintaining **data management** and **business analytics tools** tailored to organizational needs.
+- Integrating data systems with **data warehouses** for optimal information accessibility.
+- Bridging **data science**, **data analytics**, and **data engineering** to create impactful prediction systems.
+
+I leverage modern cloud technologies like **GCP** and **AWS**, along with **DevOps practices**, to deliver scalable and efficient data solutions.
+
+---
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -38,19 +47,18 @@ I thrive on turning innovative ideas into scalable, secure, and high-performing 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
 
+---
 
+## 🌎 Connect with Me
 
-<div class="lets-connect">
-     <h2>Find me around the web 🌎:</h2>
-     <div class="social-links" style="display:flex; align-item:center;">
-           <div class="gif-img"><img align="left" height="150" src="https://github.com/fortune-uwha/fortune-uwha/raw/main/Gif/Fortune-octocat-rotating.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></div>
-          <div class="socail-content" style="margin-top:20px;">
-               <a href="/" rel="nofollow">
-                   <img src="https://user-images.githubusercontent.com/40443167/162639626-3d3ae8bd-e02e-4854-aeb0-b0ffa457184a.png" width="30px" style="max-width: 100%;">
-              </a>
-               <a href="mailto: ">
-        <img src="https://user-images.githubusercontent.com/40443167/162639747-6f6067e8-0fc0-480d-b820-58594dd93390.png" width="30px" style="max-width: 100%;">
-    </a>
-          </div>
-     </div>
+<div align="center">
+    <img align="left" height="150" src="https://github.com/fortune-uwha/fortune-uwha/raw/main/Gif/Fortune-octocat-rotating.gif?raw=true" alt="Rotating Octocat">
+    <div style="margin-left: 170px;">
+        <a href="/" target="_blank">
+            <img src="https://user-images.githubusercontent.com/40443167/162639626-3d3ae8bd-e02e-4854-aeb0-b0ffa457184a.png" alt="Website" width="30px">
+        </a>
+        <a href="mailto:your-email@example.com" target="_blank">
+            <img src="https://user-images.githubusercontent.com/40443167/162639747-6f6067e8-0fc0-480d-b820-58594dd93390.png" alt="Email" width="30px">
+        </a>
+    </div>
 </div>
