@@ -47,8 +47,6 @@ I thrive on turning innovative ideas into scalable, secure, and high-performing 
 - 🌐 **SaaS & Enterprise Solutions**
 - 🏥📦💳🏢 **Real Estate, Healthcare, FinTech, Logistics, eCommerce**
 
-Let’s bring your vision to life! ⚡
-
 ---
 
 # 🌟 **My Expertise**
